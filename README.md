@@ -28,3 +28,8 @@ bash: error importing function definition for `var'
 
 ------------------------------------------------------------------------------------------------------------------
 I created a quick script to patch and test my Ubuntu servers
+
+I updated all newer systems like usual using apt-get. For older boxes I compiled bash from scratch and applied all patches as necessary.
+
+In case anyone needs I made a small script you can run in case you need to patch bash only by compiling it. Use the following on in this repo
+
