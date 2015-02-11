@@ -27,3 +27,4 @@ bash: warning: var: ignoring function definition attempt
 bash: error importing function definition for `var'
 
 ------------------------------------------------------------------------------------------------------------------
+I created a quick script to patch and test my Ubuntu servers
