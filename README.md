@@ -33,3 +33,9 @@ I updated all newer systems like usual using apt-get. For older boxes I compiled
 
 In case anyone needs I made a small script you can run in case you need to patch bash only by compiling it. Use the following on in this repo
 
+
+Shared by: Dhiraj Thareja https://www.thareja.org
+Thareja provides Technology & Marketing solutions. Contact us for your next project.
+
+Business software is our craft. We created our own all-in-one apps platform for remote work which includes Employee time + task tracking software with screenshots, locations, reporting, expense management and automated payments. Check out our website for more information. https://www.thareja.org
+
